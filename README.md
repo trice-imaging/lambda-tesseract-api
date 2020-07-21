@@ -1,3 +1,6 @@
+### Used to build Tesseract as a Lambda Layer for the Anonymization Service
+
+
 *Note* : Docker must be installed 
 
 ### Fast setup to create tesseract and python layers
